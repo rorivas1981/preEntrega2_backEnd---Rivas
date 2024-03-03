@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Flip6",
+    "description": "Descripcion Flip6",
+    "price": 99,
+    "thumbail": "Sin imagen"
+  },
+  {
+    "id": 2,
+    "title": "Go3",
+    "description": "Descripcion Go3",
+    "price": 35,
+    "thumbail": "Sin imagen"
+  },
+  {
+    "id": 3,
+    "title": "Charge5",
+    "description": "Descripcion Charge5",
+    "price": 145,
+    "thumbail": "Sin imagen"
+  },
+  {
+    "id": 4,
+    "title": "Xtreme3",
+    "description": "Descripcion Xtreme3",
+    "price": 249,
+    "thumbail": "Sin imagen"
+  },
+  {
+    "id": 5,
+    "title": "Boombox3",
+    "description": "Descripcion Boombox3",
+    "price": 349,
+    "thumbail": "Sin imagen"
+  },
+  {
+    "id": 6,
+    "title": "WaveBuds",
+    "description": "Descripcion WaveBuds",
+    "price": 45,
+    "thumbail": "Sin imagen"
+  },
+  {
+    "id": 7,
+    "title": "WaveFlex",
+    "description": "Descripcion WaveFkex",
+    "price": 59,
+    "thumbail": "Sin imagen"
+  },
+  {
+    "id": 8,
+    "title": "TuneFlex",
+    "description": "Descripcion TuneFlex",
+    "price": 69,
+    "thumbail": "Sin imagen"
+  },
+  {
+    "id": 9,
+    "title": "PartyBox310",
+    "description": "Descripcion PartyBox310",
+    "price": 479,
+    "thumbail": "Sin imagen"
+  },
+  {
+    "id": 10,
+    "title": "PartyBox710",
+    "description": "Descripcion PartyBox710",
+    "price": 679,
+    "thumbail": "Sin imagen"
+  }
+]
